@@ -124,8 +124,8 @@ text:SetPixelScaling(true)
 text:SetPixelScaling(false)
 ```
 #### Quad HD
-![Example Quad HD](https://imgur.com/peTeDu1)
+![Example Quad HD](https://imgur.com/peTeDu1.png)
 #### HD 720p
-![Example HD](https://imgur.com/of6Gdsk)
+![Example HD](https://imgur.com/of6Gdsk.png)
 #### SVGA 800x600
-![Example HD](https://imgur.com/CrwaNfe)
+![Example HD](https://imgur.com/CrwaNfe.png)
