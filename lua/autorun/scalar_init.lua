@@ -3,7 +3,7 @@ if SERVER then
         AddCSLuaFile("scalar/" .. f)
     end
 else
-    Scalar = Scalar or {Data = {}}
+    Scalar = Scalar or {Data = {}, SCALEFACTOR = {}}
     for _, f in pairs(file.Find("scalar/*", "LUA")) do
         include("scalar/" .. f)
     end
