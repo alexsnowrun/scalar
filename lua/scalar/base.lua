@@ -71,4 +71,5 @@ end
 hook.Add("OnScreenSizeChanged", "Scalar - Global scaling handler", function()
     UpdateFonts()
     UpdateSizes()
+    hook.Run("ScalarSizesUpdated")
 end)
